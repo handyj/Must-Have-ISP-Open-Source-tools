@@ -1,1 +1,30 @@
+My List:
 
+Oxidized as a replacement for RANCID
+Telegraf + InfluxDB = Tons of Grafana Dashboards
+(Open Source Slack Alternative)
+Ansible or Python Knowledge with Paramiko or netmiko for network automation.
+
+BGP:
+
+FRRouting - Mimics Cisco CLI
+BIRD - Programming style config format.
+Exabgp - Mostly used for API driven applications, monitoring with heartbeat scripts.
+(many others)
+
+DDoS detection and/or filtering:
+
+Fastnetmon - Supports many methods for packet processing.
+Ddosdetector (IPv4 Only) - Uses netmap for packet processing.
+
+Top Talkers + Other Creativeness (like fib compressing, or route optimization):
+
+pmacct - sflow/netflow combined with BGP, and a database backend
+
+Servers:
+
+Sensu or LibreNMS for Nagios type monitoring.
+
+Diagnostics:
+
+MTR - ...and knowing how to interpret it's output.
